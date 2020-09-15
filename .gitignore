@@ -1,7 +1,10 @@
 main
 myprog
+myprog-v2
 mytests
 *.o
 *.d
+*.s
+*.i
 *.swp
 
